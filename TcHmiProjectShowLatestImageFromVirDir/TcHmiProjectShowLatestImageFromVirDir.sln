@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "TcHmiProjectShowLatestImageFromVirDir", "TcHmiProjectShowLatestImageFromVirDir\TcHmiProjectShowLatestImageFromVirDir.hmiproj", "{81A3B06F-C777-4C8B-8568-EAB3BEEF7EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81A3B06F-C777-4C8B-8568-EAB3BEEF7EDB}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{81A3B06F-C777-4C8B-8568-EAB3BEEF7EDB}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{81A3B06F-C777-4C8B-8568-EAB3BEEF7EDB}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{81A3B06F-C777-4C8B-8568-EAB3BEEF7EDB}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B74555F-54AC-4203-80C1-3E76A0C3719B}
+	EndGlobalSection
+EndGlobal
